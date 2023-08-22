@@ -50,3 +50,7 @@ main{
   text-decoration: none;
   color: black;
 }
+
+.img-large{
+  max-width: 100%;
+}
